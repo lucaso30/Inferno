@@ -12,7 +12,7 @@
     </a>
 </p>
 
-Inferno is an open-source collection of fragment shaders designed for use in SwiftUI apps. The shaders are designed to be easy to read and understand, even for relative beginners, so you’ll find each line of code is rephrased in plain English as well as an overall explanation of the algorithm used at the top of each file.
+Inferno is an open-source collection of fragment shaders designed fjor use in SwiftUI apps. The shaders are designed to be easy to read and understand, even for relative beginners, so you’ll find each line of code is rephrased in plain English as well as an overall explanation of the algorithm used at the top of each file.
 
 If you’re already comfortable with shaders then please download one or more that interest you and get going. If not, most of the the remainder of this README acts as a primer for using shaders in SwiftUI.
 
